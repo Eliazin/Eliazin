@@ -1,5 +1,6 @@
 ### Hi there 👋
 Olá 👋
+![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 
 Hello, my name is Eliezer and I'm 20 years, I started programming this year using Java, C language, and most recently Python and I'm working as a Intern on Flex FIT
@@ -12,3 +13,5 @@ Eu sempre tive um grande interesse em tecnologias e também sou um grande fã de
 Now that i introduced myself, BRING ME KENOBI(JK)
 
 Agora que eu me apresentei, TRAGAM-ME O KENOBI(Brincadeira)
+
+![](https://media.giphy.com/media/UIeLsVh8P64G4/giphy.gif)
