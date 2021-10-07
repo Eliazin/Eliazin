@@ -10,4 +10,5 @@ Olá, meu nome é Eliezer e eu tenho 20 anos, eu comecei a programar esse ano us
 Eu sempre tive um grande interesse em tecnologias e também sou um grande fã de videogames(meu primeiro foi um snes) e por conta disso eu decidi fazer uma faculdade en Análise e Desenvolvimento de Sistemas na Facens(Faculdade de Engenharia de Sorocaba).
 
 Now that i introduced myself, BRING ME KENOBI(JK)
+
 Agora que eu me apresentei, TRAGAM-ME O KENOBI(Brincadeira)
