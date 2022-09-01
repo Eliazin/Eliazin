@@ -11,7 +11,7 @@
 ### Olá, meu nome é Eliezer e eu tenho 20 anos, eu comecei a programar esse ano usando Java, linguagem C e mais recentemente Python e estou trabalhando como estagiário na Flex Fit.
 ### Eu sempre tive um grande interesse em tecnologias e também sou um grande fã de videogames(meu primeiro foi um snes) e por conta disso eu decidi fazer uma faculdade em Análise e Desenvolvimento de Sistemas na Facens(Faculdade de Engenharia de Sorocaba).
 
-### Now that i introduced myself, BRING ME KENOBI (JK)
+### Now that i introduced myself, BRING ME KENOBI (Just kidding)
 
 ### Agora que eu me apresentei, TRAGAM-ME O KENOBI (Brincadeira)
 
