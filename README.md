@@ -17,4 +17,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliazin)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliazin&amp;layout=compact&amp;langs_count=7&amp;theme=dark)
+
 ![](https://media.giphy.com/media/UIeLsVh8P64G4/giphy.gif)
