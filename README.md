@@ -15,4 +15,6 @@
 
 ### Agora que eu me apresentei, TRAGAM-ME O KENOBI (Brincadeira)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+
 ![](https://media.giphy.com/media/UIeLsVh8P64G4/giphy.gif)
