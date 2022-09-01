@@ -15,6 +15,6 @@
 
 ### Agora que eu me apresentei, TRAGAM-ME O KENOBI (Brincadeira)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliazin)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://media.giphy.com/media/UIeLsVh8P64G4/giphy.gif)
